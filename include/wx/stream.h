@@ -20,6 +20,7 @@
 #include "wx/string.h"
 #include "wx/filefn.h"  // for wxFileOffset, wxInvalidOffset and wxSeekMode
 
+
 class WXDLLIMPEXP_FWD_BASE wxStreamBase;
 class WXDLLIMPEXP_FWD_BASE wxInputStream;
 class WXDLLIMPEXP_FWD_BASE wxOutputStream;

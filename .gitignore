@@ -1,4 +1,7 @@
 # /
+
+/samples/*.*
+
 /.gdb_history
 /config.cache
 /configarg.cache
